@@ -69,3 +69,6 @@ Testing/
 .cache/
 /.vs
 /GameEngine/.vs/GameEngine.slnx
+/game/.vs/game
+/game/game/x64/Debug
+/game/x64/Debug/game
